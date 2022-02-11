@@ -1,0 +1,6 @@
+No,Questions,Strongly Disagree,Disagree,Neutral,Agree,Strongly Agree,I don't know,NA,Valid Responses,Agreement Rate,Likert Score
+0,[P1] I often write comment  during software development,8,21,102,278,306,0,5,715,0.8167832167832167,4.193006993006993
+1,[P2] I'm often confused when reading code without comments,14,32,87,260,323,1,3,716,0.8142458100558659,4.181564245810056
+2,[P3] There are many high-quality comments in my projects,34,132,282,190,74,1,7,712,0.3707865168539326,3.193820224719101
+3,[P4] Large projects usually contain high-quality comments,25,93,217,209,159,10,7,703,0.5234708392603129,3.546230440967283
+4,[P5] My team conducts comment reviews,67,177,242,146,67,14,7,699,0.30472103004291845,2.955650929899857

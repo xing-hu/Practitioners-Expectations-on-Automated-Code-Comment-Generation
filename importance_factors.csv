@@ -1,0 +1,6 @@
+No,Questions,Strongly Disagree,Disagree,Neutral,Agree,Strongly Agree,I don't know,NA,Valid Responses,Agreement Rate,Likert Score
+0,[T1] This tool can improve my development efficiency,24,39,148,307,187,9,6,705,0.700709219858156,3.842553191489362
+1,[T2] This tool can help me to understand code,23,32,100,307,241,11,6,703,0.7795163584637269,4.011379800853485
+2,[T3] This tool can improve code readability,26,27,102,290,262,7,6,707,0.7807637906647807,4.03960396039604
+3,[T4] This tool can help me to check consistency between code and comments,22,29,124,313,216,9,7,704,0.7514204545454546,3.9545454545454546
+4,[T5] This tool can help me to check if the code is self-explanatory,22,26,125,319,214,8,6,706,0.7549575070821529,3.9589235127478752

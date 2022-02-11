@@ -1,0 +1,16 @@
+Granularity,Preferred Length,Count,Percentage
+Class-level,1 line,31,0.06981981981981981
+Class-level,2-3 lines,191,0.43018018018018017
+Class-level,4-5 lines,151,0.3400900900900901
+Class-level,>5 lines,29,0.06531531531531531
+Class-level,Other,42,0.0945945945945946
+Method-level,1 line,48,0.0784313725490196
+Method-level,2-3 lines,335,0.5473856209150327
+Method-level,4-5 lines,176,0.2875816993464052
+Method-level,>5 lines,20,0.032679738562091505
+Method-level,Other,33,0.05392156862745098
+Statement-level,1 line,56,0.28865979381443296
+Statement-level,2-3 lines,92,0.4742268041237113
+Statement-level,4-5 lines,30,0.15463917525773196
+Statement-level,>5 lines,5,0.02577319587628866
+Statement-level,Other,11,0.05670103092783505
